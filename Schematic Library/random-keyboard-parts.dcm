@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SK6812MINI-E
+D RGB LED with integrated controller
+K RGB LED NeoPixel Mini addressable
+$ENDCMP
+#
 #End Doc Library
